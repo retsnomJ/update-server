@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
+  "versionCode": 10,
   "versionName": "1.0.1",
-  "changelog": "合并优化",
+  "changelog": "检查更新",
   "apkUrl": "releases/latest/download/ssglxt-pda.apk",
-  "apkSize": 6056971,
-  "publishedAt": "2026-07-22T15:53:52Z"
+  "apkSize": 6056975,
+  "publishedAt": "2026-07-23T02:43:52Z"
 }
